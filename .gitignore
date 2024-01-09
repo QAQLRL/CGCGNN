@@ -1,0 +1,13 @@
+__pycache__/
+dataset/
+runs/
+.ipynb_checkpoints/
+test.ipynb
+dataset/
+checkpoint/
+.vscode
+tf-logs/
+history*
+main.ipynb
+image/
+class_console.txt
